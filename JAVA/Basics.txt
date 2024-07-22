@@ -43,5 +43,19 @@ switch (expression) {
 default; 
 
 
+## Loops
 
+### FOR LOOP:
+
+for (int i = 0; I < 5; i++) {
+  System.out.println(i);
+}
+
+### While Loop:
+
+int i = 0; 
+While (i < 5) {
+  System.out.println(i);
+i++;
+}
 
