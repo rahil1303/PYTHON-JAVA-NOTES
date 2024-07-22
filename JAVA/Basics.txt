@@ -13,4 +13,35 @@ public class Main {
   }
 }
 
+## Data Types
+
+1. int myNumber = 3; // Integer
+2. double myDoule = 5.99; // Floating point number
+3. char myChar = 'D'; // Character
+4. boolean myBool = true; // Boolean
+5. String myString = "Hello" // Sting
+
+## Control Structures 
+
+If-Else:
+
+if (condition) {
+  // code block
+} else {
+  // code block
+}
+
+Switch Characters:
+
+switch (expression) {
+  case value1:
+    // code block
+  case value2;
+    // code block
+  break;
+
+default; 
+
+
+
 
