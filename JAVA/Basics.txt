@@ -1,0 +1,16 @@
+# Introduction:
+
+Type: Statically typed, object-oriented programming language.
+Usage: Enterprise applications, Android development, web applications, and more.
+Syntax: Strict and verbose.
+
+
+## Basic Syntax
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+
+
